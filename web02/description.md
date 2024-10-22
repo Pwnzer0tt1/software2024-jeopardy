@@ -1,0 +1,3 @@
+Ho trovato questo idle game mentre mi annoiavo a lavoro. È semplice ma sono sicuro nasconda qualcosa...
+
+Sito: [http://LINK](LINK)

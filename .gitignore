@@ -1,0 +1,4 @@
+/web06/src/db/**
+/web06/src/**/*.pyc
+/web06/src/flag.txt
+.DS_Store
