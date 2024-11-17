@@ -2,4 +2,4 @@ Ho trovato questo idle game mentre mi annoiavo a lavoro. È semplice ma sono sic
 
 Dicono ci sia un secondo livello ma sembra che questo sito abbia delle pretese troppo difficili da soddisfare...
 
-Sito: [http://LINK](http://LINK)
+Sito: [http://ctf.pwnzer0tt1.it:8084](http://ctf.pwnzer0tt1.it:8084)
